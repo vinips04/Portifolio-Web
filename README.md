@@ -4,42 +4,37 @@ Projeto de portfólio pessoal desenvolvido para apresentar minha experiência, c
 
 O site foi criado com foco em uma apresentação profissional, moderna e responsiva, destacando minha atuação em infraestrutura, monitoramento, suporte técnico e troubleshooting.
 
----
-
 ## Sobre o projeto
 
 Este projeto reúne, em um único ambiente web, minha apresentação profissional, evidenciando minha base em:
 
-- Infraestrutura
-- Redes
-- Monitoramento de ambientes
-- Análise de incidentes
-- Troubleshooting
-- Evolução em Cloud e Cybersecurity
+Infraestrutura
+Redes
+Monitoramento de ambientes
+Análise de incidentes
+Troubleshooting
+Evolução em Cloud e Cybersecurity
 
----
 
 ## Funcionalidades
 
-- Navegação por seções (Sobre, Competências, Projetos, Experiência e Contato)
-- Layout responsivo para desktop e mobile
-- Seção inicial com apresentação profissional
-- Blocos de competências organizados por área técnica
-- Timeline de experiência profissional
-- Cards de projetos e labs práticos
-- Links diretos para contato (E-mail, LinkedIn e GitHub)
-- Favicon personalizado
+ Navegação por seções (Sobre, Competências, Projetos, Experiência e Contato)
+ Layout responsivo para desktop e mobile
+ Seção inicial com apresentação profissional
+ Blocos de competências organizados por área técnica
+ Timeline de experiência profissional
+ Cards de projetos e labs práticos
+ Links diretos para contato (E-mail, LinkedIn e GitHub)
+ Favicon personalizado
 
----
 
 ## Tecnologias utilizadas
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- Design responsivo  
+ HTML5  
+ CSS3  
+ JavaScript  
+ Design responsivo  
 
----
 
 ## Estrutura do projeto
 
@@ -72,8 +67,8 @@ cd Portfolio-Web/Docs
 
 Você pode visualizar o projeto de duas formas:
 
-- Abrindo o arquivo index.html diretamente no navegador
-- Utilizando a extensão Live Server no VS Code
+ Abrindo o arquivo index.html diretamente no navegador
+ Utilizando a extensão Live Server no VS Code
 
 ### Evidências
 
@@ -85,11 +80,11 @@ As imagens e capturas de tela do projeto podem ser organizadas na pasta:
 
 ## Melhorias futuras
 
-- Deploy do projeto com GitHub Pages
-- Inclusão de novos projetos e labs
-- Melhorias visuais e animações
-- Versão em inglês
-- Integração com currículo em PDF
+ Deploy do projeto com GitHub Pages
+ Inclusão de novos projetos e labs
+ Melhorias visuais e animações
+ Versão em inglês
+ Integração com currículo em PDF
 
 ## Autor
 👉 Vinicius Pereira
