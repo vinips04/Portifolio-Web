@@ -79,7 +79,6 @@ Você pode visualizar o projeto de duas formas:
 
 As imagens e capturas de tela do projeto podem ser organizadas na pasta:
 
-
 ```bash
 /Docs/images/
 ```
@@ -93,9 +92,8 @@ As imagens e capturas de tela do projeto podem ser organizadas na pasta:
 - Integração com currículo em PDF
 
 ## Autor
+👉 Vinicius Pereira
 
-Vinicius Pereira
 Analista de TI | Infraestrutura, Monitoramento e Suporte Técnico
 
-- LinkedIn: https://www.linkedin.com/in/viniciuspereira27/
-- GitHub: https://github.com/vinips04/
+[LinkedIn](https://www.linkedin.com/in/viniciuspereira27/) | [GitHub](https://github.com/vinips04)
